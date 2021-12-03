@@ -45,7 +45,7 @@ When you first download Haven from the App Store or Google Play Store, you get t
   </i> 
 </div>
 <br>
-You can then click on the 'Register' button if you are a new Haven user. Inside the Registration section, you can swipe left or right to move from page to page or press the 'Continue' button. When filling incorrect information into the 'Text Fields', the 'Text Fields' will shake and a popup message will appear. At the end of Registratering, your information will be sent to Haven's custom backend. Then, Haven will automatically create your account and log you into the Haven app.
+You can then click on the 'Register' button if you are a new Haven user. Inside the Registration section, you can swipe left or right to move from page to page or press the 'Continue' button. When filling incorrect information into the 'Text Fields', the 'Text Fields' will shake and a popup message will appear. At the end of Registering, your information will be sent to Haven's custom backend. Then, Haven will automatically create your account and log you into the Haven app.
 <br>
 <br>
 <p align="center">
@@ -57,7 +57,7 @@ You can then click on the 'Register' button if you are a new Haven user. Inside 
 </p>
 <div align="center">
   <i>
-    Figure 2. A Display of Haven's Page Segues, Custom Classes on 'TextFields', and Calling the Backend During Registration to Check for Unique Usernames and Emails
+    Figure 2. A Display of Haven's Page Segues, Custom 'TextFields' Animations, and Calling the Backend During Registration to Check for Unique Usernames and Emails
   </i> 
 </div>
 <br>
