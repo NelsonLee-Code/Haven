@@ -31,21 +31,56 @@ Download Haven now by searching 'Haven' on the [App Store](https://apps.apple.co
 - Contact: nelson@havensafe.co
 
 <h2>
-  Privacy Policy
-</h2>
-
-At Haven Safe Technology Corporation (Haven), our users' privacy is of the utmost importance and handled with care and caution. Users' personal information is handled strictly in accordance with all applicable privacy laws and our Privacy Policy.
-
-We are legally barred from sharing on code on GitHub due to our [Privacy Policy](www.havensafe.co/privacy) and Haven's status as a federally incorporated company in Canada with shareholders, investors, and proprietary information. 
-
-As such, the best way to see the functionality of Haven is to download it on the [App Store](https://apps.apple.com/ca/app/haven/id1569921454) or [Google Play Store](https://play.google.com/store/apps/details?id=com.havensafe.havenandroid&hl=en_CA&gl=US).
-<br>
-<h2>
   Walkthourgh
 </h2>
 
-When you first download Haven from the App Store or Google Play Store, you get to our Registration/Log In Page which utilizes custom animations to provide a wonderful user experience when scrolling through the Control Pages.
-
+When you first download Haven from the App Store or Google Play Store, you get to our Registration/Log In Page which utilizes custom animations to provide a wonderful user experience when scrolling through the Control Pages. 
+<br>
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/85120900/144627941-0cb14c0e-1b53-460b-99f2-efd3d4b6237c.gif" width = "300" alt = "animated" />
 </p>
+<div align="center">
+  <i>
+    Figure 1. A Display of Haven's Smooth Onboarding Animations
+  </i> 
+</div>
+<br>
+You can then click on the 'Register' button if you are a new Haven user. Inside the Registration section, you can swipe left or right to move from page to page or press the 'Continue' button. When filling incorrect information into the 'Text Fields', the 'Text Fields' will shake and a popup message will appear. At the end of Registratering, your information will be sent to Haven's custom backend. Then, Haven will automatically create your account and log you into the Haven app.
+<br>
+<br>
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/85120900/144629561-31d2fbdc-e277-472b-be64-f74e0b60b213.gif" width = "300" alt = "animated" />
+  <img width = "10" />
+  <img src = "https://user-images.githubusercontent.com/85120900/144678613-7d2001bd-de91-4f23-b6fd-becce7848587.gif" width = "300" alt = "animated" />
+  <img width = "10" />
+  <img src = "https://user-images.githubusercontent.com/85120900/144676763-63ef1138-6a5a-445c-8c9d-3767884ec3cb.gif" width = "300" alt = "animated" />
+</p>
+<div align="center">
+  <i>
+    Figure 2. A Display of Haven's Page Segues, Custom Classes on 'TextFields', and Calling the Backend During Registration to Check for Unique Usernames and Emails
+  </i> 
+</div>
+<br>
+For existing Haven users, they can Log In through our Log In page with their Email and Password.
+<br>
+<br>
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/85120900/144680249-1f38e5b7-fef5-4d8e-843d-bb9dbdb94d58.gif" width = "300" alt = "animated" />
+  <img width = "10" />
+  <img src = "https://user-images.githubusercontent.com/85120900/144680253-e0c70968-5b2b-4ff3-bd6e-02cfa5bc30f8.gif" width = "300" alt = "animated" />
+</p>
+<div align="center">
+  <i>
+    Figure 3. A Display of Haven's Secure Login Page In Action
+  </i> 
+</div>
+
+<br>
+<h2>
+  Want to See More?
+</h2>
+
+Download Haven now by searching 'Haven' on the [App Store](https://apps.apple.com/ca/app/haven/id1569921454) or [Google Play Store](https://play.google.com/store/apps/details?id=com.havensafe.havenandroid&hl=en_CA&gl=US) or by going to [bit.ly/DownloadHaven](bit.ly/DownloadHaven).
+
+See You On the Haven App!
+
