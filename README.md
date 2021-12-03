@@ -39,4 +39,13 @@ At Haven Safe Technology Corporation (Haven), our users' privacy is of the utmos
 We are legally barred from sharing on code on GitHub due to our [Privacy Policy](www.havensafe.co/privacy) and Haven's status as a federally incorporated company in Canada with shareholders, investors, and proprietary information. 
 
 As such, the best way to see the functionality of Haven is to download it on the [App Store](https://apps.apple.com/ca/app/haven/id1569921454) or [Google Play Store](https://play.google.com/store/apps/details?id=com.havensafe.havenandroid&hl=en_CA&gl=US).
+<br>
+<h2>
+  Walkthourgh
+</h2>
 
+When you first download Haven from the App Store or Google Play Store, you get to our Registration/Log In Page which utilizes custom animations to provide a wonderful user experience when scrolling through the Control Pages.
+
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/85120900/144627941-0cb14c0e-1b53-460b-99f2-efd3d4b6237c.gif" width = "300" alt = "animated" />
+</p>
