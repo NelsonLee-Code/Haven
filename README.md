@@ -82,3 +82,7 @@ For existing Haven users, they can Log In through our Log In page with their Ema
 
 Download Haven now by searching 'Haven' on the [App Store](https://apps.apple.com/ca/app/haven/id1569921454) or [Google Play Store](https://play.google.com/store/apps/details?id=com.havensafe.havenandroid&hl=en_CA&gl=US) or by going to [bit.ly/DownloadHaven](bit.ly/DownloadHaven).
 
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/85120900/144681221-4bc19dc4-20ae-4266-b30e-7e4b46674666.png" width = "600"/>
+</p>
+
